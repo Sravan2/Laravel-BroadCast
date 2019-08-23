@@ -18,7 +18,7 @@
                 </div>
                 <div class="card-body">
                      <a href="{{ url('/logoutOtherDevices') }}">Logout from other devices</a>
-                       <!-- From Feature 1 --> 
+                       <!-- From Feature 1dasdsadas --> 
                 </div>
             </div>
         </div>
